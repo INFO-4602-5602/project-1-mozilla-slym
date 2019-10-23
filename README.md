@@ -4,10 +4,10 @@
 Projects may be submitted up to 3 days late, with a 10% penalty per day
 ## Team SLYM:
 <ul>
-  <li>Sarah Paige Stockebrand (*team role*)</li>
+  <li>Paige Stockebrand (*team role*)</li>
   <li>Lu Liu (*team role*)</li>
-  <li>Mary Valentine Yoder (*team role*)</li>
-  <li>Julia Catherine Merten (*team role*)</li>
+  <li>Mary Yoder (*team role*)</li>
+  <li>Julia Merten (*team role*)</li>
 </ul>
 
 ## Running the Project:
