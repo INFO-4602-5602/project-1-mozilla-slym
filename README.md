@@ -1,7 +1,11 @@
 # 4602-Mozilla
-*Due November 4, 2019 @ 11:59pm through GitHub Classroom*
-
-Projects may be submitted up to 3 days late, with a 10% penalty per day
+Presented by Team SLYM:
+<ul>
+  <li>Sarah Paige **S**tockebrand (*team role*)</li>
+  <li>Lu **L**iu (*team role*)</li>
+  <li>Mary Valentine **Y**oder (*team role*)</li>
+  <li>Julia Catherine **M**erten (*team role*)</li>
+</ul>
 
 <h2>Overview: </h2>
 Mozilla (the same company that created the Firefox web browser) recently conducted a survey on people's perceptions of privacy in our modern, highly connected world. The survey was aimed at understanding how comfortable people from all over the world are with various technology and how that comfort varies with things like device ownership or tech savvy. You can learn more about their data here: https://blog.mozilla.org/blog/2017/11/01/10-fascinating-things-we-learned-when-we-asked-the-world-how-connected-are-you/?utm_source=newsletter-mofo&utm_medium=email&utm_campaign=IOTsurveyresults&utm_content=callout&utm_term=4434975
