@@ -1,0 +1,133 @@
+Response ID
+
+
+Time Started
+
+
+Date Submitted
+
+
+Status
+
+
+Language
+
+
+Country
+
+
+Link Name
+
+
+I consider myself:
+
+
+WiFi Router:Check all the internet connected devices you currently own:
+
+
+Laptop computer:Check all the internet connected devices you currently own:
+
+
+Smart phone:Check all the internet connected devices you currently own:
+
+
+Smart TV:Check all the internet connected devices you currently own:
+
+
+Activity Tracker (ex: Fitbit or Apple Watch):Check all the internet connected devices you currently own:
+
+
+"Smarthome Hub (ex. Amazon Echo, Google Alexa):Check all the internet connected devices you currently own:"
+
+
+Car that connects to the internet:Check all the internet connected devices you currently own:
+
+
+Smart Thermostat (ex: Nest):Check all the internet connected devices you currently own:
+
+
+"Smart Appliance (ex. Coffeemaker, Refrigerator, Oven, Fridge):Check all the internet connected devices you currently own:"
+
+
+Smart Door Locks (ex. Door locks for your home you can open via bluetooth):Check all the internet connected devices you currently own:
+
+
+"Smart Lighting (ex. Connected lighting switches, dimmers, or bulbs):Check all the internet connected devices you currently own:"
+
+
+Thinking about a future in which so much of your world is connected to the internet leaves you feeling:
+
+
+What are you most excited about as we move toward a more digitally connected future?
+
+
+What is your biggest fear as we move towards a more connected future?
+
+
+"Who is most responsible for protecting the online safety, privacy, and security of the connected apps and devices you own?"
+
+
+"Who do you most trust to help you learn how to protect your safety, security, and privacy online?"
+
+
+Price:You‰Ûªre planning on buying your next cool new tech toy. Maybe it‰Ûªs a smart TV or a new smartphone. åÊTake a look at the items below and arrange them in order of importance as you make that purchase.
+
+
+Features:You‰Ûªre planning on buying your next cool new tech toy. Maybe it‰Ûªs a smart TV or a new smartphone. åÊTake a look at the items below and arrange them in order of importance as you make that purchase.
+
+
+Safety:You‰Ûªre planning on buying your next cool new tech toy. Maybe it‰Ûªs a smart TV or a new smartphone. åÊTake a look at the items below and arrange them in order of importance as you make that purchase.
+
+
+Security:You‰Ûªre planning on buying your next cool new tech toy. Maybe it‰Ûªs a smart TV or a new smartphone. åÊTake a look at the items below and arrange them in order of importance as you make that purchase.
+
+
+Privacy:You‰Ûªre planning on buying your next cool new tech toy. Maybe it‰Ûªs a smart TV or a new smartphone. åÊTake a look at the items below and arrange them in order of importance as you make that purchase.
+
+
+Reliability:You‰Ûªre planning on buying your next cool new tech toy. Maybe it‰Ûªs a smart TV or a new smartphone. åÊTake a look at the items below and arrange them in order of importance as you make that purchase.
+
+
+User Reviews:You‰Ûªre planning on buying your next cool new tech toy. Maybe it‰Ûªs a smart TV or a new smartphone. åÊTake a look at the items below and arrange them in order of importance as you make that purchase.
+
+
+Expert Recommendation:You‰Ûªre planning on buying your next cool new tech toy. Maybe it‰Ûªs a smart TV or a new smartphone. åÊTake a look at the items below and arrange them in order of importance as you make that purchase.
+
+
+Friend or Family Recommendation:You‰Ûªre planning on buying your next cool new tech toy. Maybe it‰Ûªs a smart TV or a new smartphone. åÊTake a look at the items below and arrange them in order of importance as you make that purchase.
+
+
+Convenience:You‰Ûªre planning on buying your next cool new tech toy. Maybe it‰Ûªs a smart TV or a new smartphone. åÊTake a look at the items below and arrange them in order of importance as you make that purchase.
+
+
+IoT:Check all the terms below that you could explain to a friend:
+
+
+Connected Devices:Check all the terms below that you could explain to a friend:
+
+
+Botnet:Check all the terms below that you could explain to a friend:
+
+
+Blockchain:Check all the terms below that you could explain to a friend:
+
+
+RFID:Check all the terms below that you could explain to a friend:
+
+
+DDOS:Check all the terms below that you could explain to a friend:
+
+
+Zero Day:Check all the terms below that you could explain to a friend:
+
+
+VPN:Check all the terms below that you could explain to a friend:
+
+
+TOR:Check all the terms below that you could explain to a friend:
+
+
+I don‰Ûªt know what any of these things are:Check all the terms below that you could explain to a friend:
+
+
+Country or Region (optional)
