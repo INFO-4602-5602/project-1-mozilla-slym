@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/INFO-4602-5602/project-1-mozilla-slym/precache-manifest.d80f66914aae26916a59561b79da7d4f.js"
+  "/project-1-mozilla-slym/precache-manifest.f80739f4907acd17446ab5174509da41.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/INFO-4602-5602/project-1-mozilla-slym/index.html", {
+workbox.routing.registerNavigationRoute("/project-1-mozilla-slym/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
