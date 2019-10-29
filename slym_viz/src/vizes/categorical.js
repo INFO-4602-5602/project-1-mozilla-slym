@@ -1,16 +1,13 @@
 import React from 'react';
 import './categorical.css';
+import WorldMap from './worldMap';
 
 class Categorical extends React.Component {
     render() {
       return (
         <div>
           <h1>Categorical graph</h1>
-
-          <script src="https://d3js.org/d3.v4.min.js"></script>
-
-          
-
+          <WorldMap data={[5, 10, 1, 3]} size={[500, 500]} />
         </div>
       )
     }
