@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e79b70d39816492b715b",
+    "revision": "6b2aebdca0b5c7c167f0",
     "url": "/project-1-mozilla-slym/static/css/main.33904e41.chunk.css"
   },
   {
-    "revision": "e79b70d39816492b715b",
-    "url": "/project-1-mozilla-slym/static/js/main.b80529ef.chunk.js"
+    "revision": "6b2aebdca0b5c7c167f0",
+    "url": "/project-1-mozilla-slym/static/js/main.d7c74f51.chunk.js"
   },
   {
     "revision": "430aa4f774813d71d24c",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/project-1-mozilla-slym/static/js/2.fa40e270.chunk.js"
   },
   {
-    "revision": "5afd2cf28b362e10093c39e08238b1bd",
+    "revision": "d59bc3fc4883df7be9f80477beee5dca",
     "url": "/project-1-mozilla-slym/index.html"
   }
 ];
