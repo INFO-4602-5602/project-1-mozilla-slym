@@ -13,7 +13,7 @@ import Categorical from './vizes/categorical';
 import Quantitative from './vizes/quantitative';
 
 const router = (
-  <Router basename={"/project-1-mozilla-slym"}>
+  <Router basename="/project-1-mozilla-slym">
       <div className="navContainer">
         <ul>
           <li>
