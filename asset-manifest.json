@@ -1,13 +1,13 @@
 {
   "main.css": "/project-1-mozilla-slym/static/css/main.33904e41.chunk.css",
-  "main.js": "/project-1-mozilla-slym/static/js/main.d7c74f51.chunk.js",
-  "main.js.map": "/project-1-mozilla-slym/static/js/main.d7c74f51.chunk.js.map",
+  "main.js": "/project-1-mozilla-slym/static/js/main.ff97639d.chunk.js",
+  "main.js.map": "/project-1-mozilla-slym/static/js/main.ff97639d.chunk.js.map",
   "runtime~main.js": "/project-1-mozilla-slym/static/js/runtime~main.165e0727.js",
   "runtime~main.js.map": "/project-1-mozilla-slym/static/js/runtime~main.165e0727.js.map",
-  "static/js/2.fa40e270.chunk.js": "/project-1-mozilla-slym/static/js/2.fa40e270.chunk.js",
-  "static/js/2.fa40e270.chunk.js.map": "/project-1-mozilla-slym/static/js/2.fa40e270.chunk.js.map",
+  "static/js/2.e270109f.chunk.js": "/project-1-mozilla-slym/static/js/2.e270109f.chunk.js",
+  "static/js/2.e270109f.chunk.js.map": "/project-1-mozilla-slym/static/js/2.e270109f.chunk.js.map",
   "index.html": "/project-1-mozilla-slym/index.html",
-  "precache-manifest.5d6738a744cc2301b59b3c287f912224.js": "/project-1-mozilla-slym/precache-manifest.5d6738a744cc2301b59b3c287f912224.js",
+  "precache-manifest.21c89cf28f92bb7396c54c8abab4781b.js": "/project-1-mozilla-slym/precache-manifest.21c89cf28f92bb7396c54c8abab4781b.js",
   "service-worker.js": "/project-1-mozilla-slym/service-worker.js",
   "static/css/main.33904e41.chunk.css.map": "/project-1-mozilla-slym/static/css/main.33904e41.chunk.css.map"
 }
