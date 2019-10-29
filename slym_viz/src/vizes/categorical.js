@@ -1,11 +1,17 @@
 import React from 'react';
+import * as d3 from "d3";
+import './categorical.css';
 
 class Categorical extends React.Component {
     render() {
       return (
         <div>
           <h1>Categorical graph</h1>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis lacinia convallis vestibulum. Suspendisse maximus turpis dui, at fermentum lectus fringilla nec. Etiam ornare finibus felis, a placerat odio molestie vitae. Vestibulum vitae sapien at augue rutrum sagittis. Fusce ullamcorper accumsan blandit. Quisque convallis neque arcu. Phasellus elit lacus, pellentesque quis libero sed, pretium elementum mi. Quisque non ante quis turpis blandit hendrerit in eget felis. Nam eget tristique dolor, sed dapibus ligula.</p>
+
+          <script src="https://d3js.org/d3.v4.min.js"></script>
+
+          
+
         </div>
       )
     }

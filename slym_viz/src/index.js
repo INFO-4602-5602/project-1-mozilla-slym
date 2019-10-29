@@ -1,12 +1,36 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import {
+  Route,
+  NavLink,
+  BrowserRouter as Router,
+  Switch
+} from 'react-router-dom';
+// CSS Styling
 import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
+// Components
+import Categorical from './vizes/categorical';
+import Quantitative from './vizes/quantitative';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+const router = (
+  <Router>
+      <div className="navContainer">
+        <ul>
+          <li>
+            <NavLink exact activeClassName="active" to="/">Categorical</NavLink>
+          </li>
+          <li>
+            <NavLink activeClassName="active" to="/quantitative">Quantitative</NavLink>
+          </li>
+        </ul>
+      </div>
+      <div>
+        <Switch>
+          <Route exact path="/" component={Categorical} />
+          <Route path="/quantitative" component={Quantitative} />
+        </Switch>
+      </div>
+  </Router>
+);
 
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
-serviceWorker.unregister();
+ReactDOM.render(router, document.getElementById('root'));
