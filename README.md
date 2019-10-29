@@ -12,9 +12,7 @@ Projects may be submitted up to 3 days late, with a 10% penalty per day
 
 ## Running the Project:
 <ol>
-<li>Clone the repository</li>
-<li>Open an http server in the remote directory</li>
-<li>Open *index.html*</li>
+  <li>Go to: https://info-4602-5602.github.io/project-1-mozilla-slym/</li>
 </ol>
 
 ## The Visualizations:
