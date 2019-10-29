@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/project-1-mozilla-slym/static/js/2.e270109f.chunk.js"
   },
   {
-    "revision": "2ce7758a7e974ef07623da4cbeed464e",
+    "revision": "136e24b785fd990e76b5cc6dddc578b3",
     "url": "/project-1-mozilla-slym/index.html"
   }
 ];
