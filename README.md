@@ -5,14 +5,14 @@ Projects may be submitted up to 3 days late, with a 10% penalty per day
 ## Team SLYM:
 <ul>
   <li>Paige Stockebrand (*team role*)</li>
-  <li>Lu Liu (*team role*)</li>
+  <li>Lu Liu (remote coder)</li>
   <li>Mary Yoder (*team role*)</li>
   <li>Julia Merten (*team role*)</li>
 </ul>
 
 ## Running the Project:
 <ol>
-  <li>Go to: https://info-4602-5602.github.io/project-1-mozilla-slym/</li>
+  <li>tbd</li>
 </ol>
 
 ## The Visualizations:
