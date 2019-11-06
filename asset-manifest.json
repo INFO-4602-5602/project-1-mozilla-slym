@@ -1,5 +1,5 @@
 {
-  "main.css": "/project-1-mozilla-slym/static/css/main.a76d6a20.chunk.css",
+  "main.css": "/project-1-mozilla-slym/static/css/main.33904e41.chunk.css",
   "main.js": "/project-1-mozilla-slym/static/js/main.d934d373.chunk.js",
   "main.js.map": "/project-1-mozilla-slym/static/js/main.d934d373.chunk.js.map",
   "runtime~main.js": "/project-1-mozilla-slym/static/js/runtime~main.165e0727.js",
@@ -7,7 +7,7 @@
   "static/js/2.712aff3e.chunk.js": "/project-1-mozilla-slym/static/js/2.712aff3e.chunk.js",
   "static/js/2.712aff3e.chunk.js.map": "/project-1-mozilla-slym/static/js/2.712aff3e.chunk.js.map",
   "index.html": "/project-1-mozilla-slym/index.html",
-  "precache-manifest.a2de12a5a3288fabf727e433cdcb5516.js": "/project-1-mozilla-slym/precache-manifest.a2de12a5a3288fabf727e433cdcb5516.js",
+  "precache-manifest.9b437a766cb3885709206bfe723660d0.js": "/project-1-mozilla-slym/precache-manifest.9b437a766cb3885709206bfe723660d0.js",
   "service-worker.js": "/project-1-mozilla-slym/service-worker.js",
-  "static/css/main.a76d6a20.chunk.css.map": "/project-1-mozilla-slym/static/css/main.a76d6a20.chunk.css.map"
+  "static/css/main.33904e41.chunk.css.map": "/project-1-mozilla-slym/static/css/main.33904e41.chunk.css.map"
 }
