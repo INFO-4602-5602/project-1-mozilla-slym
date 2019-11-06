@@ -47,3 +47,7 @@ code {
 .active {
   border-bottom: solid 3px #333;
 }
+
+div {
+  text-align: center;
+}

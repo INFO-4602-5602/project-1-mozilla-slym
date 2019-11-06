@@ -22,12 +22,16 @@ const router = (
           <li>
             <NavLink activeClassName="active" to="/quantitative">Quantitative</NavLink>
           </li>
+          <li>
+            <NavLink activeClassName="active" to="/test">Test</NavLink>
+          </li>
         </ul>
       </div>
       <div>
         <Switch>
           <Route exact path="/" component={Categorical} />
           <Route path="/quantitative" component={Quantitative} />
+          <Route path="/test" render={() => {window.location.href="/viz2/quantitative.html"}} />
         </Switch>
       </div>
   </Router>

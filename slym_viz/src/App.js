@@ -19,12 +19,19 @@ const App = (
             <NavLink exact activeClassName="active" to="/">Categorical</NavLink>
           </li>
           <li>
-            <NavLink activeClassName="active" to="/">Quantitative</NavLink>
+            <NavLink activeClassName="active" to="/2">Quantitative</NavLink>
+          </li>
+          <li>
+            <NavLink activeClassName="active" to="/viz2/quantitative.html">Test</NavLink>
+          </li>
+          <li>
+            <NavLink activeClassName="active" to="/viz2/quantitative.html">Test</NavLink>
           </li>
         </ul>
         <Switch>
           <Route exact path="/" component={Categorical} />
-          <Route path="/" component={Quantitative} />
+          <Route path="/2" component={Quantitative} />
+          <Route path="/viz2/quantitative.html" />
         </Switch>
       </div>
   </Router>
