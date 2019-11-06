@@ -12,13 +12,7 @@ Projects may be submitted up to 3 days late, with a 10% penalty per day
 
 ## Running the Project:
 <ol>
-<<<<<<< HEAD
   <li>tbd</li>
-=======
-<li>Clone the repository</li>
-<li>Open an http server in the remote directory</li>
-<li>Open *index.html*</li>
->>>>>>> parent of e10ae4d... Merge branch 'master' of https://github.com/INFO-4602-5602/project-1-mozilla-slym
 </ol>
 
 ## The Visualizations:
@@ -26,17 +20,3 @@ Projects may be submitted up to 3 days late, with a 10% penalty per day
 lorem ipsum
 
 #### Visualization 2: Quantitative
-<<<<<<< HEAD
-lorem ipsum
-
-<iframe src="/assets/img/Bokeh/flowers.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="500"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
-=======
-lorem ipsum
->>>>>>> parent of e10ae4d... Merge branch 'master' of https://github.com/INFO-4602-5602/project-1-mozilla-slym
