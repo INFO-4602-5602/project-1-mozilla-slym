@@ -5,6 +5,8 @@ body {
 }
 #main {
   width: 960px;
+  margin: auto;
+  text-align: center;
 }
 .axis .domain {
   display: none;
@@ -34,10 +36,20 @@ var y = d3.scaleLinear()
 
 // set the colors
 var z = d3.scaleOrdinal()
-    .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
+    .range(["#440154", 
+"#482475", 
+"#414487", 
+"#355f8d", 
+"#2a788e", 
+"#21918c", 
+"#22a884", 
+"#44bf70", 
+"#7ad151", 
+"#bddf26", 
+"#fde725"]);
 
 // load the csv and create the chart
-d3.csv("mozilla.csv", function(d, i, columns) {
+d3.csv("devices.csv", function(d, i, columns) {
   for (i = 1, t = 0; i < columns.length; ++i) t += d[columns[i]] = +d[columns[i]];
   d.total = t;
   return d;
@@ -45,23 +57,22 @@ d3.csv("mozilla.csv", function(d, i, columns) {
   if (error) throw error;
 
   var keys = data.columns.slice(1);
-  var devices = keys.slice(7, 19);
-  console.log(devices)
+  console.log(keys)
 
   data.sort(function(a, b) { return b.total - a.total; });
   x.domain(data.map(function(d) { return d.FutureFeeling; }));
   y.domain([0, d3.max(data, function(d) { return d.total; })]).nice();
-  z.domain(devices);
+  z.domain(keys);
 
   g.append("g")
     .selectAll("g")
-    .data(d3.stack().keys(devices)(data))
+    .data(d3.stack().keys(keys)(data))
     .enter().append("g")
       .attr("fill", function(d) { return z(d.key); })
     .selectAll("rect")
     .data(function(d) { return d; })
     .enter().append("rect")
-      .attr("x", function(d) { return x(d.data.State); })
+      .attr("x", function(d) { return x(d.data.FutureFeeling); })
       .attr("y", function(d) { return y(d[1]); })
       .attr("height", function(d) { return y(d[0]) - y(d[1]); })
       .attr("width", x.bandwidth())
