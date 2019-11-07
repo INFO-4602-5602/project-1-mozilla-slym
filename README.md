@@ -5,7 +5,7 @@ Projects may be submitted up to 3 days late, with a 10% penalty per day
 ## Team SLYM:
 <ul>
   <li>Paige Stockebrand: Aid in design as well as prototyping</li>
-  <li>Lu Liu: Aid in execution of code and serving to Github</li>
+  <li>Lu Liu: Github liaison and Viz2 coder</li>
   <li>Mary Yoder: Beginning of write up</li>
   <li>Julia Merten: Aid in design as well as completion of write up</li>
 </ul>
