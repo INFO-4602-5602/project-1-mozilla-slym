@@ -12,7 +12,8 @@ Projects may be submitted up to 3 days late, with a 10% penalty per day
 
 ## Running the Project:
 <ol>
-  <li><a href="https://info-4602-5602.github.io/project-1-mozilla-slym/d3/quantitative.html">Viz 2</a></li>
+  <li>Viz1</li>
+  <li><a href="https://info-4602-5602.github.io/project-1-mozilla-slym/d3/quantitative.html" target="_blank">Viz 2</a></li>
 </ol>
 
 ## The Visualizations:
