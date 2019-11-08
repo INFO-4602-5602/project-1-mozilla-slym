@@ -36,7 +36,7 @@ body {
 <script>
 
 // Set up the bounds of the visualization
-var margin = {top: 20, right: 20, bottom: 30, left: 40};
+var margin = {top: 20, right: 30, bottom: 100, left: 200};
 var width = 1000 - margin.right - margin.left;
 var height = 7000 - margin.top - margin.bottom;
 
@@ -104,8 +104,8 @@ d3.csv("savvyClean.csv", function(error, data) {
 
   // const SavvyRange = [Array(Savviness.length).keys()]
   // const LangRange = [Array(Languages.length).keys()]
-  const xRange = makeArr(0, width, xDomain.length)
-  const yRange = makeArr(height, 0, yDomain.length)
+  const xRange = makeArr(50, width-50, xDomain.length)
+  const yRange = makeArr(height-50, 0, yDomain.length)
 
   // Create some variables that let us hold the different columns we'll want to index into
   var x_val = "Language";
@@ -136,7 +136,7 @@ d3.csv("savvyClean.csv", function(error, data) {
      .append("text")
         .attr("class", "label")
         .attr("transform", "rotate(-90)")
-        .attr("y",6)
+        .attr("y",100)
         .style("text-anchor", "end")
         .text(y_val);
 
