@@ -5,14 +5,14 @@ Projects may be submitted up to 3 days late, with a 10% penalty per day
 ## Team SLYM:
 <ul>
   <li>Paige Stockebrand: Aid in design as well as prototyping</li>
-  <li>Lu Liu: Github liaison and Viz2 coder</li>
+  <li>Lu Liu: Github liaison and visualization coder</li>
   <li>Mary Yoder: Beginning of write up</li>
   <li>Julia Merten: Aid in design as well majority of write up</li>
 </ul>
 
 ## Running the Project:
 <ol>
-  <li><a href="https://info-4602-5602.github.io/project-1-mozilla-slym/d3/categorical.html" target="_blank">Categorical</a></li>
+  <li><a href="https://info-4602-5602.github.io/project-1-mozilla-slym/d3/categorical.html" target="_blank">Categorical</a> (longer load)</li>
   <li><a href="https://info-4602-5602.github.io/project-1-mozilla-slym/d3/quantitative.html" target="_blank">Quantitative</a></li>
 </ol>
 
